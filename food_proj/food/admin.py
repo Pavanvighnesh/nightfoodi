@@ -10,3 +10,4 @@ admin.site.register(profile)
 admin.site.site_header='FOODI APP'
 admin.site.site_title='foodi_app'
 admin.site.index_title='Managing  Food-items'
+print('hello vighnesh')
